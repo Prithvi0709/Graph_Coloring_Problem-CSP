@@ -1,9 +1,10 @@
 # Graph_Coloring_Problem-CSP
-Implementation of an algorithm using MRV, LCV and AC-3 Algorithm to solve graph colouring problem. ( Constraint Satisfaction Problem )
+## Constraint Satisfaction Problem
+Implementation of an algorithm using MRV, LCV and AC-3 Algorithm to solve graph colouring problem.
 
 This program takes an input from text files provided.
 
-There are three implementations
+There are four implementations
 
 1. Basic Backtracking Search
 2. MRV Heuristic
